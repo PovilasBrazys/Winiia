@@ -1,0 +1,14 @@
+{
+  "name": "winiia",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Povilas Brazys",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
